@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Wedge.unity
+- path: Assets/arrow.unity
   isLoaded: 1
   isActive: 1

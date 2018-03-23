@@ -425,6 +425,7 @@
     <Compile Include="Assets\pupil_plugin\Scripts\Pupil\TestAccess.cs" />
     <Compile Include="Assets\pupil_plugin\Scripts\PupilDemoManager.cs" />
     <Compile Include="Assets\Scripts\Activities\CubesWallActivities\DemoActivity.cs" />
+    <Compile Include="Assets\Scripts\arrowMid.cs" />
     <Compile Include="Assets\Scripts\Core\AppConstants.cs" />
     <Compile Include="Assets\Scripts\Core\InspectorButtonAttribute.cs" />
     <Compile Include="Assets\Scripts\Core\Logger.cs" />
