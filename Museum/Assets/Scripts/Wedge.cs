@@ -7,8 +7,8 @@ public class Wedge : MonoBehaviour {
     private LineRenderer wedge1;
     private LineRenderer wedge2;
 
-    public GameObject lastActive;
-    public GameObject active;
+    private GameObject lastActive;
+    private GameObject active;
 
     int counter = 2;
 
