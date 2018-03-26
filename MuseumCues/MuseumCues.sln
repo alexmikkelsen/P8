@@ -1,7 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuseumCues", "MuseumCues.csproj", "{7C256DC4-4620-53C6-8A3E-2BAB94AD1D5B}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuseumCues", "Assembly-CSharp.csproj", "{D1DE9785-5E3B-6C13-147F-BA0C4A8E0185}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,12 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7C256DC4-4620-53C6-8A3E-2BAB94AD1D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7C256DC4-4620-53C6-8A3E-2BAB94AD1D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7C256DC4-4620-53C6-8A3E-2BAB94AD1D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7C256DC4-4620-53C6-8A3E-2BAB94AD1D5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1DE9785-5E3B-6C13-147F-BA0C4A8E0185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1DE9785-5E3B-6C13-147F-BA0C4A8E0185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1DE9785-5E3B-6C13-147F-BA0C4A8E0185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1DE9785-5E3B-6C13-147F-BA0C4A8E0185}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
